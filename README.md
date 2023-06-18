@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericdunipace
 - 👀 I’m interested in optimal transport methods and Bayesian statistics
-- 🌱 I’m currently learning medicine
+- 🌱 I’m currently a psychiatry resident at Stanford
 - 💞️ I’m looking to collaborate on model selection in causal inference and matching for multivalued treatments
 - 📫 How to reach me: edunipace at mail dot harvard dot edu
 
